@@ -129,7 +129,7 @@ export default function Home() {
         <div className="container px-4 mx-auto">
           <div className="grid grid-cols-1 gap-12 md:grid-cols-2">
             <div>
-              <h2 className="text-3xl font-bold text-white">Why GameSkins?</h2>
+              <h2 className="text-3xl font-bold text-white">Why BloxySkins?</h2>
               <div className="mt-8 space-y-8">
                 <div className="flex gap-4">
                   <div className="flex items-center justify-center w-12 h-12 rounded-full bg-purple-600/20">
